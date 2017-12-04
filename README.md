@@ -1,2 +1,2 @@
 # Rainbow-Dance
-This repo is created on local machine and pushed on github.
+This repo is created on github and cloned onto local machine.
